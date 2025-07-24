@@ -1,1 +1,1 @@
-감자전's stats box
+감자전's stats box.
